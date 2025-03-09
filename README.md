@@ -104,3 +104,5 @@ Now, open **`http://127.0.0.1:8000/`** in your browser to access the system.
 │── requirements.txt     # Dependencies
 │── README.md            # Project Documentation
 ```  
+## Link to videos and deployed
+https://drive.google.com/drive/folders/1aKLqjS3YKW075RZJiOg2796sNN6CFo7C?usp=sharing 
